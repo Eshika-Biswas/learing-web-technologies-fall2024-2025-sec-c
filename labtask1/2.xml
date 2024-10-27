@@ -1,0 +1,45 @@
+<patients>
+    <patientdetails>
+        <sl>23</sl>
+        <name>john carter</name>
+        <admissiondate>
+            <date>25</date>
+            <month>12</month>
+            <year>2015</year>
+    
+        </admissiondate>
+    
+           
+    </patientdetails> 
+
+    <patientdetails>
+        <sl>29</sl>
+        <name>bob marshal</name>
+        <admissiondate>
+            <date>13</date>
+            <month>01</month>
+            <year>1999</year>
+    
+        </admissiondate>
+    
+           
+    </patientdetails> 
+
+
+    <patientdetails>
+        <sl>35</sl>
+        <name>clark kent</name>
+        <admissiondate>
+            <date>17</date>
+            <month>06</month>
+            <year>2005</year>
+    
+        </admissiondate>
+    
+           
+    </patientdetails> 
+      
+      
+      
+
+</patients>

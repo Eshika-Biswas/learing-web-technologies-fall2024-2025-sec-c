@@ -1,0 +1,38 @@
+<patients>
+    <patientdetails>
+        <id>1</id>
+        <name>john doer</name>
+        <address>H#38,R#3,Banani,dhaka</address>
+        <department> sales</department>
+        <salary>$20000</salary>
+    
+           
+    </patientdetails> 
+
+    <patientdetails>
+        <id>2</id>
+        <name>Mark zuckerberg</name>
+        <address>Flat#A?1,H#20,R#18,Mirpur,dhaka</address>
+        <department> Accounts</department>
+        <salary>$12000</salary>
+    
+    
+           
+    </patientdetails> 
+
+
+    <patientdetails>
+        <id>3</id>
+        <name>Ala Voski</name>
+        <address>H#38,R#3,Motijheel</address>
+        <department> Human Resource</department>
+        <salary>$3000</salary>
+        
+    
+           
+    </patientdetails> 
+      
+      
+      
+
+</patients>

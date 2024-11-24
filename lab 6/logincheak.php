@@ -16,7 +16,7 @@
             
             $_SESSION['status'] = true;
             $_SESSION['username'] = $username;
-            header('location: welcome.php'); 
+            header('location: home.php'); 
             exit();
         }
     }
@@ -50,7 +50,7 @@
             <input type="password" id="confirm_password" name="confirm_password" required><br><br>
 
             <button type="submit">Register</button>
-            <button type = "submit ">SING IN</button>
+            
         </fieldset>
     </form>
 </body>
